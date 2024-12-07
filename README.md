@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=100&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=80&section=header)
 ## Hello, World! I'm Roger 👋
 ![Profile views](https://komarev.com/ghpvc/?username=roger-chau&label=Profile%20views&color=70a5fd&style=flat-square)
 
