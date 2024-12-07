@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hello, World! I'm Roger 👋
+![Profile views](https://komarev.com/ghpvc/?username=roger-chau&label=Profile%20views&color=70a5fd&style=flat-square)
 
+I'm a third-year computing science major at the University of Alberta! 
+## 📈 My Github Stats
+<div class="badges-githubstats">
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=roger-chau&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Roger Chau's Stats" height="165">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=roger-chau&theme=tokyonight&hide_border=true" alt="Roger Chau's Streak" height="165">
+  </p>
+</div>
 <!--
 **roger-chau/roger-chau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
