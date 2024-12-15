@@ -9,6 +9,9 @@ I'm a third-year computing science major at the University of Alberta! My intere
     <img src="https://github-readme-stats.vercel.app/api?username=roger-chau&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Roger Chau's Stats" height="165">
   </p>
 </div>
+
+## 🔭 I’m currently working on ...
+💰 **Nomad** an envelope method budgetting app built with the flutter framework!
 <!--
 **roger-chau/roger-chau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
