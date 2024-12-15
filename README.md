@@ -2,7 +2,7 @@
 ## Hello, World! I'm Roger 👋
 ![Profile views](https://komarev.com/ghpvc/?username=roger-chau&label=Profile%20views&color=70a5fd&style=flat-square)
 
-I'm a third-year computing science major at the University of Alberta! 
+I'm a third-year computing science major at the University of Alberta! My interests lie with distributed systems and backend programmming.
 ## 📈 My Github Stats
 <div class="badges-githubstats">
   <p align="center">
