@@ -11,7 +11,7 @@ I'm a third-year computing science major at the University of Alberta! My intere
 </div>
 
 ## 🔭 I’m currently working on ...
-💰 **Nomad** - An envelope method budgetting app built with the flutter framework!
+💰 **Nomad** - An envelope method budgetting app built with the Flutter framework!
 <!--
 **roger-chau/roger-chau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
