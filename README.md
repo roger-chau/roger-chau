@@ -2,7 +2,7 @@
 ## Hello, World! I'm Roger 👋
 ![Profile views](https://komarev.com/ghpvc/?username=roger-chau&label=Profile%20views&color=70a5fd&style=flat-square)
 
-I'm a fourth-year computing science major at the University of Alberta! My interests lie with distributed systems and backend programmming.
+I'm a fourth-year computing science major at the University of Alberta! My interests lie with computer systems.
 ## 📈 My Github Stats
 <div class="badges-githubstats">
   <p align="center">
@@ -11,7 +11,7 @@ I'm a fourth-year computing science major at the University of Alberta! My inter
 </div>
 
 ## 🔭 I’m currently working on ...
-💰 **Nomad** - An envelope method budgetting app built with the Flutter framework!
+**Self-studying Computer Graphics, Rust and GPU Applications**
 <!--
 **roger-chau/roger-chau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
