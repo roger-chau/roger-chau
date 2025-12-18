@@ -11,7 +11,7 @@ I'm a fourth-year computing science major at the University of Alberta! My inter
 </div>
 
 ## 🔭 I’m currently working on ...
-**Self-studying Computer Graphics, Rust and GPU Applications**
+**Self-studying Computer Graphics and Rust**
 <!--
 **roger-chau/roger-chau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
