@@ -19,7 +19,7 @@ Fourth-year Computing Science student at the University of Alberta. Interested i
 </p>
 
 ## 🔭 I’m currently working on...
-**Building a strong foundation in Computer Graphics and low-level systems engineering with Rust**
+Building a strong foundation in Computer Graphics and low-level systems engineering with Rust
 <!--
 **roger-chau/roger-chau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
