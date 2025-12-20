@@ -1,17 +1,25 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=80&section=header)
-## Hello, World! I'm Roger 👋
+## Hello, World! I’m Roger 👋
 ![Profile views](https://komarev.com/ghpvc/?username=roger-chau&label=Profile%20views&color=70a5fd&style=flat-square)
 
-I'm a fourth-year computing science major at the University of Alberta! My interests lie with computer systems.
-## 📈 My Github Stats
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=roger-chau&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Roger Chau's Stats" height="165">
-  </p>
-</div>
+Fourth-year Computing Science student at the University of Alberta. Interested in computer systems, graphics, and building things from the ground up.
 
-## 🔭 I’m currently working on ...
-**Self-studying Computer Graphics and Rust**
+## 📈 My Github Stats
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=roger-chau&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
+    width="400"
+    height="165"
+  >
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger-chau&theme=tokyonight&hide_border=true&hide=lua&layout=compact"
+    width="400"
+    height="165"
+  >
+</p>
+
+## 🔭 I’m currently working on...
+**Building a strong foundation in Computer Graphics and low-level systems engineering with Rust**
 <!--
 **roger-chau/roger-chau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
