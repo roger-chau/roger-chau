@@ -4,20 +4,6 @@
 
 Fourth-year Computing Science student at the University of Alberta. Interested in computer architecture, compilers, programming languages, and high performance computing!
 
-## 📈 My Github Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=roger-chau&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"
-    width="400"
-    height="165"
-  >
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger-chau&theme=tokyonight&hide_border=true&hide=lua&layout=compact"
-    width="400"
-    height="165"
-  >
-</p>
-
 ## 🔭 I’m currently working on...
 RustCPU, a simulator used to learn and internalize computer architecture concepts.
 <!--
