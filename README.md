@@ -5,7 +5,7 @@
 Fourth-year Computing Science student at the University of Alberta. Interested in computer architecture, compilers, programming languages, and high performance computing!
 
 ## 🔭 I’m currently working on...
-RustCPU, a simulator used to learn and internalize computer architecture concepts.
+...
 <!--
 **roger-chau/roger-chau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
