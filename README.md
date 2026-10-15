@@ -5,7 +5,7 @@
 A recent Computing Science graduate from the University of Alberta, interested in compiler engineering, low-level systems programming, computer architecture, and performance optimization.
 
 ## 🔭 I’m currently working on...
-**[Linker](https://github.com/roger-chau/Linker)** — A minimal linker for x86-64 relocatable ELF object files, built entirely from scratch in C++ and Rust to understand how linking actually works and to build real familiarity with Rust.
+
 <!--
 **roger-chau/roger-chau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
