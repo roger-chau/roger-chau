@@ -1,22 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=70a5fd&height=80&section=header)
 ## Hello, World! I’m Roger 👋
-![Profile views](https://komarev.com/ghpvc/?username=roger-chau&label=Profile%20views&color=70a5fd&style=flat-square)
+An Embedded Software Developer learning computer architecture the hard way: reading, measuring, and breaking things. Into compilers, low-level systems, and squeezing performance out of real hardware.
 
-A recent Computing Science graduate from the University of Alberta, interested in compiler engineering, low-level systems programming, computer architecture, and performance optimization.
+## 🔭 I'm currently working on...
 
-## 🔭 I’m currently working on...
+- 📖 **Working through *Computer Architecture: A Quantitative Approach*** (Hennessy & Patterson), cover to cover. Currently on: **Memory Hierarchy**
+- 🧪 Memory hierarchy experiments in C++: [cache-experiments](https://github.com/your-username/your-repo)
+- 🛠️ A toy tensor compiler in Rust, aiming at CPU and CUDA backends
 
-<!--
-**roger-chau/roger-chau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 CA:AQA progress
+| Chapter | Status |
+|---|---|
+| 1. Fundamentals of Quantitative Design | ✅ |
+| 2. Memory Hierarchy Design | 🚧 |
+| 3. Instruction-Level Parallelism | ⬜ |
+| 4. Data-Level Parallelism (Vector, SIMD, GPU) | ⬜ |
+| 5. Thread-Level Parallelism | ⬜ |
+| 6. Warehouse-Scale Computers | ⬜ |
+| 7. Domain-Specific Architectures | ⬜ |
