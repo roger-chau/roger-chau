@@ -6,7 +6,7 @@ An Embedded Software Developer learning computer architecture the hard way: read
 
 - 📖 **Working through *Computer Architecture: A Quantitative Approach*** (Hennessy & Patterson), cover to cover. Currently on: **Memory Hierarchy**
 - 🧪 Memory hierarchy experiments in C++: [cache-experiments](https://github.com/roger-chau/cache-experiments)
-- 🛠️ A toy tensor compiler in Rust, aiming at CPU and CUDA backends
+- 🛠️ A toy tensor compiler in Rust, aiming at CPU and CUDA backends: [ml-compiler](https://github.com/roger-chau/ml-compiler)
 
 ### 📚 CA:AQA progress
 | Chapter | Status |
